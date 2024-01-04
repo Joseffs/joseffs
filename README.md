@@ -32,21 +32,21 @@
     📬 Conecte-se comigo:
   </h3>
   <br />
-  <a href="#">
+  <a href="#" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" 
       alt="portfolio">
   </a>
-  <a href="#">
+  <a href="#" target="_blank">
     <img 
       src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" 
       alt="resume">
   </a>
-  <a href="mailto:josef.devs@gmail.com">
+  <a href="mailto:josef.devs@gmail.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
-  <a href="https://www.linkedin.com/in/c410j0s3">
+  <a href="https://www.linkedin.com/in/c410j0s3" target="_blank">
     <img 
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
       alt="linked-in">
