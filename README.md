@@ -154,7 +154,7 @@
     src="https://img.shields.io/badge/Kotlin-993399?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" 
     alt="kotlin">
   <img 
-    src="https://img.shields.io/badge/Kotlin-5add26?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" 
+    src="https://img.shields.io/badge/SpringBoot-5add26?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" 
     alt="SpringBoot">
 </div>
 
