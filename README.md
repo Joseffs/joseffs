@@ -29,7 +29,7 @@
 <!--*************** Contact ***************-->
 <div>
   <h3>
-    📬 Conecte-se comigo:
+    📬 Conecte-se:
   </h3>
   <br />
   <a href="#" target="_blank">
