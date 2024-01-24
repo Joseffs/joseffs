@@ -42,7 +42,7 @@
       src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" 
       alt="resume">
   </a>
-  <a href="mailto:josef.devs@gmail.com" target="_blank">
+  <a href="mailto:cj.safos@gmail.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
