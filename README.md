@@ -148,8 +148,8 @@
     src="https://img.shields.io/badge/Node-008000?style=for-the-badge&amp;logo=node.js&amp;logoColor=F7DF1E" 
     alt="Nodejs">
   <img 
-    src="https://img.shields.io/badge/Kotlin-993399?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" 
-    alt="kotlin">
+    src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&amp;logo=.net&amp;logoColor=white" 
+    alt=".net">
   <img 
     src="https://img.shields.io/badge/SpringBoot-5add26?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" 
     alt="SpringBoot">
