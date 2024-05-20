@@ -85,9 +85,6 @@
     src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" 
     alt="NPM" />
   <img 
-    src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" 
-    alt="Yarn" />
-  <img 
     src="https://img.shields.io/badge/babel-FCDF3F.svg?style=for-the-badge&logo=babel&logoColor=white" 
     alt="Babel" />
   <img 
@@ -149,7 +146,7 @@
     src="https://img.shields.io/badge/Node-008000?style=for-the-badge&amp;logo=node.js&amp;logoColor=F7DF1E" 
     alt="Nodejs">
   <img 
-    src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&amp;logo=.net&amp;logoColor=white" 
+    src="https://img.shields.io/badge/Kotlin-512BD4?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" 
     alt=".net">
   <img 
     src="https://img.shields.io/badge/SpringBoot-5add26?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" 
@@ -162,9 +159,6 @@
 
 <h3>🖥️ Deploy</h3>
 <div>
-  <img 
-    src="https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&amp;logo=Firebase&amp;logoColor=white" 
-    alt="firebase">
   <img 
     src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=Vercel&amp;logoColor=white" 
     alt="vercel">
