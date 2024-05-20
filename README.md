@@ -1,3 +1,4 @@
+<img style="width:100%;height:3px;" src="./bar.gif" />
 <!--*************** Title ***************-->
 <h1 align="center">
   Olá,meu nome e Caio José,<br />mas pode me chamar de "Josef"
